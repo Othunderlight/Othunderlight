@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Othunderlight
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : doctoromar253@gmail.com 
 
