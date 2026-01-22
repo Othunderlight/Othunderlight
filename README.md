@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Othunderlight
 - 👀 I’m on the way to replace my self with AI :)
 - 🌱 Exploring Business, learning marketing and sales
-- 💞️ Building an automation startup to help busineses automate thier marketing and sales processes
-- checkout vibereach at https://vibereach.gatara.org/en
+- 💞️ Building a CRM for founders who sell through convs not piplines
+- checkit out at www.founderstack.cloud
 - 📫 How to reach me : sudocoder.py@gmail.com 
 
 <!---
