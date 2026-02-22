@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Othunderlight
 - 👀 I’m on the way to replace my self with AI :)
 - 🌱 Exploring Business, learning marketing and sales
-- 💞️ Building a CRM for founders who sell through convs not piplines
-- checkit out at www.founderstack.cloud
+- 💞️ Building a CRM you can chat with like a friend
+- check my protfolio out at omar.founderstack.cloud
 - 📫 How to reach me : sudocoder.py@gmail.com 
 
 <!---
