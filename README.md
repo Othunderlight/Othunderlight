@@ -2,8 +2,7 @@
 - 👀 I’m on the way to replace my self with AI :)
 - 🌱 Exploring Business, learning marketing and sales
 - 💞️ Building a CRM you can chat with like a friend
-- check my protfolio out at omar.founderstack.cloud
-- 📫 How to reach me : sudocoder.py@gmail.com 
+- check my protfolio out at https://omar.founderstack.cloud
 
 <!---
 Othunderlight/Othunderlight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
